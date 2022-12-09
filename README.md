@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a trained cancer researcher with customer success experience in digital health care and a passion for data. Now I am ready to take steps and make data a bigger part of my work life. 
+I am a trained cancer researcher with customer success experience in digital health care and a passion for data. Now I am ready to take steps and make data an even bigger part of my work life. 
 
 In my career, I have always generated and worked with data. In recent times, I even created dashboards for our clinical clients. Work that I enjoyed doing. I brushed up my SQL knowledge and took the IBM Data Science specification. The foundation is laid out. Now I have to maintain and train the muscle.
 
